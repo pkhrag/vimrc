@@ -30,6 +30,7 @@ set guioptions-=L
 " Colorscheme
 set background=dark
 colorscheme space-vim-dark 
+hi Comment cterm=italic
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
